@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevOps Portfolio</title>
+    <title>Abdul Rehman | DevOps Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -43,34 +43,43 @@
 </head>
 <body>
     <header>
-        <h1>DevOps Engineer Portfolio</h1>
+        <h1>Abdul Rehman</h1>
+        <p>DevOps Engineer | Cloud Enthusiast | Automation Expert</p>
     </header>
     <div class="container">
         <div class="section">
             <h2>About Me</h2>
-            <p>DevOps Engineer with experience in cloud computing, automation, and CI/CD.</p>
+            <p>I am a passionate DevOps Engineer with experience in automating infrastructure, optimizing CI/CD pipelines, and managing cloud-based environments.</p>
         </div>
         <div class="section">
             <h2>Technical Skills</h2>
-            <p>Cloud (AWS, Azure, GCP), CI/CD (Jenkins, GitHub Actions), Kubernetes, Terraform.</p>
+            <p>Cloud (AWS, Azure, GCP), CI/CD (Jenkins, GitHub Actions), Kubernetes, Terraform, Ansible, Docker.</p>
         </div>
         <div class="section">
             <h2>Projects</h2>
             <ul>
-                <li>Kubernetes CI/CD Pipeline</li>
-                <li>Terraform Infrastructure Automation</li>
-                <li>Centralized Logging & Monitoring</li>
+                <li>Automated CI/CD Pipeline Implementation</li>
+                <li>Infrastructure as Code with Terraform</li>
+                <li>Kubernetes Cluster Deployment</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Certifications</h2>
+            <ul>
+                <li>AWS Certified DevOps Engineer – Professional</li>
+                <li>Certified Kubernetes Administrator (CKA)</li>
+                <li>HashiCorp Certified: Terraform Associate</li>
             </ul>
         </div>
         <div class="section">
             <h2>Contact</h2>
             <p>Email: your.email@example.com</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/abdul-rehman-381ba1252">linkedin.com/in/abdul-rehman-381ba1252</a></p>
             <p>GitHub: <a href="#">github.com/yourusername</a></p>
-            <p>LinkedIn: <a href="#">linkedin.com/in/yourname</a></p>
         </div>
     </div>
     <footer>
-        &copy; 2025 Your Name. All Rights Reserved.
+        &copy; 2025 Abdul Rehman. All Rights Reserved.
     </footer>
 </body>
 </html>
