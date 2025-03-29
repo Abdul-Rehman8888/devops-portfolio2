@@ -4,113 +4,66 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Abdul Rehman | DevOps Portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #1e1e1e;
-            color: #ffffff;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            text-align: center;
-            padding: 50px 0;
-        }
-        .hero {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            background: linear-gradient(to right, #ff416c, #ff4b2b);
-            padding: 20px;
-        }
-        .hero h1 {
-            font-size: 50px;
-            margin: 0;
-        }
-        .hero p {
-            font-size: 20px;
-            margin-top: 10px;
-        }
-        .social-icons a {
-            color: white;
-            font-size: 24px;
-            margin: 10px;
-            text-decoration: none;
-        }
-        .section {
-            padding: 50px;
-        }
-        .card {
-            background: #2c2c2c;
-            padding: 20px;
-            margin: 20px auto;
-            border-radius: 10px;
-            width: 80%;
-            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
-        }
-        footer {
-            background: #121212;
-            text-align: center;
-            padding: 10px;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <div class="hero">
-        <h1>Abdul Rehman</h1>
-        <p>DevOps Engineer | Cloud Enthusiast | Automation Expert</p>
-        <div class="social-icons">
-            <a href="https://www.linkedin.com/in/abdul-rehman-381ba1252" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a href="#"><i class="fab fa-github"></i></a>
-            <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
+    <header>
+        <div class="container">
+            <h1>Abdul Rehman</h1>
+            <p>DevOps Engineer | Cloud Enthusiast | Automation Expert</p>
+            <div class="social-icons">
+                <a href="https://www.linkedin.com/in/abdul-rehman-381ba1252" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="https://github.com/Abdul-Rehman8888" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
+            </div>
         </div>
-    </div>
-    
-    <div class="container">
-        <div class="section">
+    </header>
+    <section id="about">
+        <div class="container">
             <h2>About Me</h2>
-            <div class="card">
-                <p>I am a passionate DevOps Engineer with experience in automating infrastructure, optimizing CI/CD pipelines, and managing cloud-based environments.</p>
-            </div>
+            <p>I am a passionate DevOps Engineer with expertise in automating infrastructure, optimizing CI/CD pipelines, and managing cloud-based environments.</p>
         </div>
-        
-        <div class="section">
+    </section>
+    <section id="skills">
+        <div class="container">
             <h2>Skills</h2>
-            <div class="card">
-                <p>Cloud (AWS, Azure, GCP), CI/CD (Jenkins, GitHub Actions), Kubernetes, Terraform, Ansible, Docker.</p>
-            </div>
+            <ul>
+                <li>Cloud Platforms: AWS, Azure, GCP</li>
+                <li>CI/CD: Jenkins, GitHub Actions, GitLab CI/CD</li>
+                <li>Infrastructure as Code: Terraform, CloudFormation</li>
+                <li>Containers & Orchestration: Docker, Kubernetes</li>
+                <li>Monitoring: Prometheus, Grafana</li>
+            </ul>
         </div>
-
-        <div class="section">
+    </section>
+    <section id="projects">
+        <div class="container">
             <h2>Projects</h2>
-            <div class="card">
-                <ul>
-                    <li>Automated CI/CD Pipeline Implementation</li>
-                    <li>Infrastructure as Code with Terraform</li>
-                    <li>Kubernetes Cluster Deployment</li>
-                </ul>
+            <div class="project-card">
+                <h3>Automated CI/CD Pipeline</h3>
+                <p>Implemented a robust CI/CD pipeline using Jenkins and GitHub Actions.</p>
+            </div>
+            <div class="project-card">
+                <h3>Infrastructure as Code</h3>
+                <p>Developed Terraform scripts to manage cloud infrastructure.</p>
+            </div>
+            <div class="project-card">
+                <h3>Kubernetes Cluster Deployment</h3>
+                <p>Orchestrated containerized applications using Kubernetes and Helm.</p>
             </div>
         </div>
-
-        <div class="section">
-            <h2>Certifications</h2>
-            <div class="card">
-                <ul>
-                    <li>AWS Certified DevOps Engineer – Professional</li>
-                    <li>Certified Kubernetes Administrator (CKA)</li>
-                    <li>HashiCorp Certified: Terraform Associate</li>
-                </ul>
-            </div>
+    </section>
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Email: your.email@example.com</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/abdul-rehman-381ba1252" target="_blank">linkedin.com/in/abdul-rehman-381ba1252</a></p>
+            <p>GitHub: <a href="https://github.com/Abdul-Rehman8888" target="_blank">github.com/Abdul-Rehman8888</a></p>
         </div>
-    </div>
-    
+    </section>
     <footer>
-        &copy; 2025 Abdul Rehman. All Rights Reserved.
+        <p>&copy; 2025 Abdul Rehman. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
