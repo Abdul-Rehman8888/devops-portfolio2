@@ -25,6 +25,15 @@
             <p>I am a passionate DevOps Engineer with expertise in automating infrastructure, optimizing CI/CD pipelines, and managing cloud-based environments.</p>
         </div>
     </section>
+    <section id="education">
+        <div class="container">
+            <h2>Education</h2>
+            <div class="college">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Malla_Reddy_Institute_of_Technology_and_Science_logo.jpg" alt="Malla Reddy Institute of Technology and Science" width="300">
+                <p>Bachelor's Degree in Structural Engineering</p>
+            </div>
+        </div>
+    </section>
     <section id="skills">
         <div class="container">
             <h2>Skills</h2>
