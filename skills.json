@@ -40,12 +40,12 @@
         "icon": "https://img.icons8.com/color/48/jenkins.png"
     },
     {
-        "name": "GitHub-Actions",
-        "icon": "https://img.icons8.com/?size=100&id=Rwvr0tllTWU5&format=png&color=5C7CFA"
+        "name": "   GitHub Actions   ",
+        "icon": "https://img.icons8.com/?size=48&id=Rwvr0tllTWU5&format=png&color=5C7CFA"
     },
     {
-        "name": "Elastic Search",
-        "icon": "https://img.icons8.com/?size=40&id=aGBLcugRkYpT&format=png&color=000000"
+        "name": "Elastic",
+        "icon": "https://img.icons8.com/?size=48&id=aGBLcugRkYpT&format=png&color=000000"
     },
     {
         "name": "Logstash",
@@ -57,7 +57,7 @@
     },
     {
         "name": "Prometheus",
-        "icon": "https://img.icons8.com/?size=40&id=Ei4ZhVQvIMHE&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=Ei4ZhVQvIMHE&format=png&color=000000"
     },
     {
         "name": "Grafana",
