@@ -1,15 +1,15 @@
 [
     {
         "name": "DevOps",
-        "icon": "https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png"
+        "icon": "https://img.icons8.com/?size=40&id=CLa3T2WlbrOP&format=png&color=000000"
+    },
+    {
+        "name": "GitOps",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
         "name": "Linux",
         "icon": "https://img.icons8.com/color/48/linux--v1.png"
-    },
-    {
-        "name": "Git",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
         "name": "GitHub",
@@ -40,6 +40,18 @@
         "icon": "https://img.icons8.com/color/48/jenkins.png"
     },
     {
+        "name": "GitHub Actions",
+        "icon": "https://img.icons8.com/?size=40&id=Rwvr0tllTWU5&format=png&color=000000"
+    },
+    {
+        "name": "Azure DevOps",
+        "icon": "https://img.icons8.com/?size=40&id=S4wbdK79E23a&format=png&color=000000"
+    },
+        {
+        "name": "Elastic Search",
+        "icon": "https://img.icons8.com/?size=40&id=aGBLcugRkYpT&format=png&color=000000"
+    },
+    {
         "name": "Logstash",
         "icon": "https://img.icons8.com/?size=40&id=COGDdXNGIF6r&format=png&color=000000"
     },
@@ -47,7 +59,10 @@
         "name": "Kibana",
         "icon": "https://img.icons8.com/?size=40&id=viVPreeQBfSH&format=png&color=000000"
     },
-   
+    {
+        "name": "Prometheus",
+        "icon": "https://img.icons8.com/?size=40&id=Ei4ZhVQvIMHE&format=png&color=000000"
+    },
     {
         "name": "Grafana",
         "icon": "https://img.icons8.com/color/48/grafana.png"
