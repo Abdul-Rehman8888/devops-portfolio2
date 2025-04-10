@@ -1,19 +1,19 @@
 [
     {
+        "name": "DevOps",
+        "icon": "https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png"
+    },
+    {
         "name": "Linux",
         "icon": "https://img.icons8.com/color/48/linux--v1.png"
     },
     {
-        "name": "Git VCS",
+        "name": "Git",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "DevOps",
-        "icon": "https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png"
     },
     {
         "name": "Docker",
@@ -32,24 +32,21 @@
         "icon": "https://img.icons8.com/fluency/48/azure-1.png"
     },
     {
-        "name": "Google Cloud Platform",
-        "icon": "https://img.icons8.com/color/48/000000/google-cloud-platform.png"
-    },
-    {
-        "name": "Go-Lang",
-        "icon": "https://img.icons8.com/color/48/golang.png"
-    },
-    {
         "name": "Terraform",
         "icon": "https://img.icons8.com/color/48/terraform.png"
     },
     {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/jenkins.png"
     },
     {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+        "name": "Prometheus",
+        "icon": " https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000"
+    },
+   
+    {
+        "name": "Grafana",
+        "icon": "https://img.icons8.com/color/48/grafana.png"
     },
     {
         "name": "JavaScript",
@@ -58,41 +55,6 @@
     {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-    },
-    {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-    },
-    {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
-    },
-    {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
-    },
-    {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
-    },
-    {
-        "name": "DSA",
-        "icon": "https://img.icons8.com/color/48/000000/code.png"
-    },
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     }
+ 
 ]
