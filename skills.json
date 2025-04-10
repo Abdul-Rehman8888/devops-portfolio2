@@ -44,15 +44,15 @@
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },    
     {
-        "name": "Jenkins",
-        "icon": "https://img.icons8.com/color/48/jenkins.png"
-    },
-    {
         "name": "GitHubActions",
         "icon": "https://img.icons8.com/?size=48&id=Rwvr0tllTWU5&format=png&color=5C7CFA"
     },
     {
-        "name": "Elastic",
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/jenkins.png"
+    },
+    {
+        "name": "ElasticSearch",
         "icon": "https://img.icons8.com/?size=48&id=aGBLcugRkYpT&format=png&color=000000"
     },
     {
