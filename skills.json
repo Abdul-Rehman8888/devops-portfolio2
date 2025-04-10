@@ -1,7 +1,7 @@
 [
     {
         "name": "DevOps",
-        "icon": "https://img.icons8.com/?size=40&id=CLa3T2WlbrOP&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=CLa3T2WlbrOP&format=png&color=000000"
     },
     {
         "name": "GitOps",
@@ -40,15 +40,11 @@
         "icon": "https://img.icons8.com/color/48/jenkins.png"
     },
     {
-        "name": "GitHub Actions",
+        "name": " GitHub Actions ",
         "icon": "https://img.icons8.com/?size=40&id=Rwvr0tllTWU5&format=png&color=000000"
     },
     {
-        "name": "Azure DevOps",
-        "icon": "https://img.icons8.com/?size=40&id=S4wbdK79E23a&format=png&color=000000"
-    },
-        {
-        "name": "Elastic Search",
+        "name": "  Elastic Search ",
         "icon": "https://img.icons8.com/?size=40&id=aGBLcugRkYpT&format=png&color=000000"
     },
     {
