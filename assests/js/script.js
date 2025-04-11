@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["DevOps Engineer","Full-Stack development", "Cloud Computing"],
+        strings: ["DevOps Engineering", "Cloud Engineering", "Platform Engineering"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
